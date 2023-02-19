@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "33CD5051-8658-459C-A9E7-DDF3726593E2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30576B5F-DDA4-4FA9-AE9B-6F30F41A2806"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CARIAD Test/ContentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E10712C-3FC9-42F0-92D0-C345BB60A790"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CARIAD Test/MapViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "MapViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02E09F1C-377B-48FF-B407-0209B2B05ED5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CARIAD Test/ContentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB329D7E-8694-498B-9EE4-2E71AD3D7D60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CARIAD Test/ContentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CB329D7E-8694-498B-9EE4-2E71AD3D7D60 - de729a75ae0d4df5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CARIAD_Test.ContentViewModel.loadData() -&gt; ()"
+                  moduleName = "CARIAD Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aymenbenfarhat/Desktop/Whispers/CARIAD%20Test/CARIAD%20Test/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "CB329D7E-8694-498B-9EE4-2E71AD3D7D60 - eace56bd2511626b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;CARIAD_Test.ChargingPoint&gt;) -&gt; () in CARIAD_Test.ContentViewModel.loadData() -&gt; ()"
+                  moduleName = "CARIAD Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aymenbenfarhat/Desktop/Whispers/CARIAD%20Test/CARIAD%20Test/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79AA1507-D313-4C27-A6A0-E2DA1BF49C7A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CARIAD TestTests/ContentViewModelTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "test_should_load_charging_points_from_endpoint()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "79AA1507-D313-4C27-A6A0-E2DA1BF49C7A - 9168b328ce51a2ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CARIAD_TestTests.ContentViewModelTest.test_should_load_charging_points_from_endpoint() -&gt; ()"
+                  moduleName = "CARIAD TestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aymenbenfarhat/Desktop/Whispers/CARIAD%20Test/CARIAD%20TestTests/ContentViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "79AA1507-D313-4C27-A6A0-E2DA1BF49C7A - 9168b328ce51a2ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CARIAD_TestTests.ContentViewModelTest.test_should_load_charging_points_from_endpoint() -&gt; ()"
+                  moduleName = "CARIAD TestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aymenbenfarhat/Desktop/Whispers/CARIAD%20Test/CARIAD%20TestTests/ContentViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  uuid = "79AA1507-D313-4C27-A6A0-E2DA1BF49C7A - 9168b328ce51a2aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CARIAD_TestTests.ContentViewModelTest.test_should_load_charging_points_from_endpoint() -&gt; ()"
+                  moduleName = "CARIAD TestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aymenbenfarhat/Desktop/Whispers/CARIAD%20Test/CARIAD%20TestTests/ContentViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "79AA1507-D313-4C27-A6A0-E2DA1BF49C7A - 9168b328ce51a2cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CARIAD_TestTests.ContentViewModelTest.test_should_load_charging_points_from_endpoint() -&gt; ()"
+                  moduleName = "CARIAD TestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aymenbenfarhat/Desktop/Whispers/CARIAD%20Test/CARIAD%20TestTests/ContentViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "512">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B11A40AD-71FB-4F0C-B616-E0E34A09B7F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CARIAD TestTests/ContentViewModelTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "test_should_load_charging_points_from_endpoint()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3F92077-DCDF-4067-8092-83F5A1994A62"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CARIAD TestTests/ContentViewModelTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "test_should_load_charging_points_from_endpoint()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "762B7EF6-7B5A-47C1-812A-C9C848D2243A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CARIAD Test/ContentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "reLoadDataEvery30Second()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
